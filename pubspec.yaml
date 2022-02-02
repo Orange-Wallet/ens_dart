@@ -11,7 +11,10 @@ dependencies:
     sdk: flutter
   dotenv: ^3.0.0
   sha3: ^0.2.0
-  web3dart: ^2.3.3
+  web3dart:
+    git:
+      url: https://github.com/thelazyindian/web3dart
+      ref: master
     #path: ../web3dart
   web_socket_channel: ^2.1.0
   fast_base58: ^0.2.1
