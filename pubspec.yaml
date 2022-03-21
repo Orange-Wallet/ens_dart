@@ -13,9 +13,8 @@ dependencies:
   sha3: ^0.2.0
   web3dart:
     git:
-      url: https://github.com/thelazyindian/web3dart
+      url: https://github.com/thelazyindian/ow_web3dart
       ref: master
-    #path: ../web3dart
   web_socket_channel: ^2.1.0
   fast_base58: ^0.2.1
   http: ^0.13.4
